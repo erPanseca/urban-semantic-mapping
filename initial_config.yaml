@@ -1,0 +1,7 @@
+parameters:
+  rgb: False
+  rectified: True
+  detector: 'sift'
+  distance_threshold: 0.35
+  max_depth: 3000
+  subset: null
