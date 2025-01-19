@@ -1,5 +1,5 @@
 parameters:
-  rgb: False
+  rgb: True
   rectified: True
   detector: 'sift'
   distance_threshold: 0.35
